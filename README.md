@@ -2,13 +2,15 @@
 
 ### Aspiring Python Full Stack Developer | AI & Data Science Graduate
 
+🌐 **Portfolio:** [Visit My Portfolio](https://pavanimadaportfolio.netlify.app/)
+
 ## About
 
-- 🎓 B.Tech graduate specializing in Artificial Intelligence and Data Science
-- 💻 Interested in Full Stack Development and AI/ML
-- 🌱 Building practical applications using Python, React.js and SQL
-- 🚀 Focused on problem-solving, continuous learning and software development
-- 🎯 Aspiring to contribute to real-world software projects
+- 🎓 B.Tech graduate specializing in Artificial Intelligence and Data Science.
+- 💻 Interested in Full Stack Development and AI/ML.
+- 🌱 Building practical applications using Python, React.js and SQL.
+- 🚀 Focused on problem-solving, continuous learning and software development.
+- 🎯 Aspiring to contribute to real-world software projects.
 
 ## Technical Skills
 
@@ -33,17 +35,18 @@
 | [AI Smart Waste Classifier](https://github.com/Pavani-2116/smart-waste-classifier) | AI-powered waste classification application | Python, YOLOv8, Flask |
 | [React Learning Hub](https://github.com/Pavani-2116/React_Learning_Hub) | React concepts and hands-on mini projects | React.js, JavaScript, Vite |
 
-## GitHub
+## GitHub & Professional Links
 
 - 💻 [GitHub Profile](https://github.com/Pavani-2116)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/pavani-mada/)
+- 🌐 [Personal Portfolio](https://pavanimadaportfolio.netlify.app/)
 
 ## Current Focus
 
-- Strengthening Python and SQL fundamentals
-- Improving React.js and full-stack development skills
-- Practicing Data Structures and Algorithms
-- Building practical software applications
+- Strengthening Python and SQL fundamentals.
+- Improving React.js and full-stack development skills.
+- Practicing Data Structures and Algorithms.
+- Building practical software applications.
 
 ---
 
